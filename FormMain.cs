@@ -32,6 +32,7 @@ namespace FF12RNGHelper
             cbPlatform.SelectedIndex = 0;
             healVals = new List<UInt32>();
             searchRNG = new RNG1998();
+            dispRNG = new RNG1998();
             toolStripStatusLabelPercent.Text = "";
             toolStripStatusLabelProgress.Text = "";
         }
