@@ -11,7 +11,7 @@ Basic usage:
 4. Repeat steps 2 and 3 untill you are confident you are at the Correct RNG position.
 5. Use the proceeding RNG values to manipulate chest drops/rare steals/etc. The % column is most likely what you want to use for this as many manipulable events use the rng value mod 100 to determine success or failure.
 
-If you need any more information, I'm sure you can additional information online.
+If you need any more information on how you can use this program to your advantage, I'm sure a little searching of the web will help.
 
 There is also a section where you can provide the RNG position, and the number of positions you want to display, and it will give you a "cure list", which you can then copy into a spreadsheet if you want.
 
